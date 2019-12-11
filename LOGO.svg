@@ -117,10 +117,10 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="5.0389215"
-     inkscape:cx="409.42582"
+     inkscape:cx="361.79658"
      inkscape:cy="935.6254"
      inkscape:document-units="mm"
-     inkscape:current-layer="g1094"
+     inkscape:current-layer="layer5"
      showgrid="false"
      inkscape:window-width="1920"
      inkscape:window-height="1017"
@@ -374,7 +374,8 @@
        id="g5021"
        inkscape:export-filename="C:\Users\RMarc\Documents\Project code\AppSiiMaster\PNG\plus.png"
        inkscape:export-xdpi="300"
-       inkscape:export-ydpi="300">
+       inkscape:export-ydpi="300"
+       transform="translate(0.735111,-4.0431105)">
       <circle
          r="3.3818417"
          cy="43.563892"
