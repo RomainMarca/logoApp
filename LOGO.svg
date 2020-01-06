@@ -88,26 +88,6 @@
        y1="327.13498"
        x2="314.02518"
        y2="485.54459" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient5320"
-       id="linearGradient1221"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(0.26458333,0,0,-0.14297564,151.40464,207.54326)"
-       x1="316.0209"
-       y1="327.13498"
-       x2="314.02518"
-       y2="485.54459" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient5320"
-       id="linearGradient1223"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(0.26460989,0,0,0.13641925,151.39661,73.898459)"
-       x1="316.0209"
-       y1="327.13498"
-       x2="314.02518"
-       y2="485.54459" />
   </defs>
   <sodipodi:namedview
      id="base"
@@ -116,15 +96,15 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="5.0389215"
-     inkscape:cx="361.79658"
-     inkscape:cy="935.6254"
+     inkscape:zoom="2.5194608"
+     inkscape:cx="819.48741"
+     inkscape:cy="633.28416"
      inkscape:document-units="mm"
      inkscape:current-layer="layer5"
      showgrid="false"
      inkscape:window-width="1920"
      inkscape:window-height="1017"
-     inkscape:window-x="-8"
+     inkscape:window-x="1912"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
      inkscape:snap-global="true" />
@@ -1039,36 +1019,10 @@
              style="fill:#000000" /></flowRegion><flowPara
            id="flowPara1021"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Arial Rounded MT Bold';-inkscape-font-specification:'Arial Rounded MT Bold, ';fill:#000000">By Romain MARCA</flowPara></flowRoot>    </g>
-    <rect
-       y="117.63065"
-       x="203.60216"
-       height="44.25462"
-       width="55.6875"
-       id="rect1091"
-       style="fill:#00ffff;fill-opacity:1;stroke:none;stroke-width:0.19197994"
-       inkscape:export-filename="C:\Users\romain.marca\Documents\APP Android\logoApp\logoApp\PNG\splash_round.png"
-       inkscape:export-xdpi="300"
-       inkscape:export-ydpi="300" />
-    <path
-       style="opacity:1;fill:url(#linearGradient1221);fill-opacity:1;stroke:#ffffff;stroke-width:0.04126266;stroke-miterlimit:4;stroke-dasharray:none"
-       d="m 203.59937,139.60693 v 22.6719 h 27.84654 27.84654 v -22.6719 -22.6719 h -27.84654 -27.84654 z"
-       id="path1093"
-       inkscape:connector-curvature="0"
-       inkscape:export-filename="C:\Users\romain.marca\Documents\APP Android\logoApp\logoApp\PNG\splash_round.png"
-       inkscape:export-xdpi="300"
-       inkscape:export-ydpi="300" />
-    <path
-       inkscape:connector-curvature="0"
-       id="path1095"
-       d="m 203.59658,138.71945 v -21.63224 h 27.84933 27.84933 v 21.63224 21.63224 h -27.84933 -27.84933 z"
-       style="opacity:1;fill:url(#linearGradient1223);fill-opacity:1;stroke:#ffffff;stroke-width:0.0403075;stroke-miterlimit:4;stroke-dasharray:none"
-       inkscape:export-filename="C:\Users\romain.marca\Documents\APP Android\logoApp\logoApp\PNG\splash_round.png"
-       inkscape:export-xdpi="300"
-       inkscape:export-ydpi="300" />
     <g
        id="g1207"
        transform="matrix(0.28528112,0,0,0.28528112,200.59388,110.01732)"
-       inkscape:export-filename="C:\Users\romain.marca\Documents\APP Android\logoApp\logoApp\PNG\splash_round.png"
+       inkscape:export-filename="C:\Users\romain.marca\Documents\APP Android\masterApp Beta\logoApp\logoApp\PNG\bitmap.png"
        inkscape:export-xdpi="300"
        inkscape:export-ydpi="300">
       <g
@@ -1302,7 +1256,7 @@
        id="flowRoot1217"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none"
        transform="matrix(0.05450662,-0.00230022,0.01763953,0.06152921,222.44111,123.42561)"
-       inkscape:export-filename="C:\Users\romain.marca\Documents\APP Android\logoApp\logoApp\PNG\splash_round.png"
+       inkscape:export-filename="C:\Users\romain.marca\Documents\APP Android\masterApp Beta\logoApp\logoApp\PNG\bitmap.png"
        inkscape:export-xdpi="300"
        inkscape:export-ydpi="300"><flowRegion
          id="flowRegion1213"
@@ -1330,7 +1284,7 @@
            id="tspan1104"
            x="86.953133"
            y="49.794704"
-           style="stroke-width:0.26458332"></tspan></text>
+           style="stroke-width:0.26458332" /></text>
       <g
          id="g1128">
         <circle
