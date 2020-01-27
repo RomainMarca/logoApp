@@ -15,7 +15,7 @@
    viewBox="0 0 210 297"
    version="1.1"
    id="svg1316"
-   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
    sodipodi:docname="BDD.svg">
   <defs
      id="defs1310">
@@ -288,14 +288,14 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.5341791"
-     inkscape:cx="89.317609"
+     inkscape:cx="-252.3281"
      inkscape:cy="357.22597"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="g2198"
      showgrid="false"
      inkscape:window-width="1920"
      inkscape:window-height="1017"
-     inkscape:window-x="-8"
+     inkscape:window-x="1912"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
      inkscape:snap-global="false" />
@@ -765,17 +765,17 @@
          xml:space="preserve"
          id="flowRoot2183"
          style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-         transform="matrix(0.54110135,0,0,0.54110135,20.123251,-267.41189)"><flowRegion
+         transform="matrix(0.54110135,0,0,0.54110135,-121.2818,-267.41189)"><flowRegion
            id="flowRegion2185"><rect
              id="rect2187"
              width="871.01172"
              height="222.38597"
              x="51.625317"
              y="52.949043" /></flowRegion><flowPara
-           style="font-weight:bold"
+           style="font-weight:bold;text-align:center;text-anchor:middle"
            id="flowPara2189">DATABASE </flowPara><flowPara
-           style="font-weight:bold"
-           id="flowPara2191">SII Master.App</flowPara></flowRoot>    </g>
+           style="font-weight:bold;text-align:center;text-anchor:middle"
+           id="flowPara2191">SII Master.App -V2</flowPara></flowRoot>    </g>
     <g
        id="g2210"
        transform="matrix(0.48897186,0,0,0.48897186,87.52586,362.61303)">
