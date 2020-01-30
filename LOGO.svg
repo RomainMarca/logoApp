@@ -96,15 +96,15 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="2.5194608"
-     inkscape:cx="819.48741"
-     inkscape:cy="633.28416"
+     inkscape:zoom="1.2597304"
+     inkscape:cx="565.94663"
+     inkscape:cy="511.55443"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer5"
+     inkscape:current-layer="g1207"
      showgrid="false"
      inkscape:window-width="1920"
      inkscape:window-height="1017"
-     inkscape:window-x="1912"
+     inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
      inkscape:snap-global="true" />
@@ -1172,7 +1172,7 @@
          transform="matrix(2.1290373,0,0,1.8969659,-142.76915,24.304231)" />
       <g
          id="g1179"
-         transform="matrix(0.4633993,0.49583828,-0.43807904,1.3920752,31.399107,-65.789473)">
+         transform="matrix(0.51121601,0.49528737,-0.48328303,1.3905285,29.851853,-65.621328)">
         <flowRoot
            xml:space="preserve"
            id="flowRoot1167"
@@ -1186,7 +1186,7 @@
                x="-54.28891"
                y="451.39645"
                style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Arial Rounded MT Bold';-inkscape-font-specification:'Arial Rounded MT Bold, ';fill:#8ab4e1;fill-opacity:1;stroke:#ffffff;stroke-opacity:1" /></flowRegion><flowPara
-             id="flowPara1163">MASTERS</flowPara><flowPara
+             id="flowPara1163">MASTER</flowPara><flowPara
              id="flowPara1165" /></flowRoot>        <flowRoot
            transform="matrix(0.92442975,-0.35681748,-0.11050898,0.60160199,210.57878,-231.49125)"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:'Arial Rounded MT Bold';-inkscape-font-specification:'Arial Rounded MT Bold, ';letter-spacing:0px;word-spacing:0px;fill:#0059a3;fill-opacity:1;stroke:#8ab4e1;stroke-opacity:1"
@@ -1200,7 +1200,7 @@
                height="156.31462"
                width="602.79407"
                id="rect1169" /></flowRegion><flowPara
-             id="flowPara1173">MASTERS</flowPara><flowPara
+             id="flowPara1173">MASTER</flowPara><flowPara
              id="flowPara1175" /></flowRoot>      </g>
       <g
          transform="matrix(0.70355348,0.46319986,0.35063288,1.3004422,5.7251522,-32.285301)"
@@ -1241,7 +1241,7 @@
          cy="53.872833"
          rx="0.70856225"
          ry="0.64604205"
-         transform="matrix(4.0310569,0,0,3.8253055,-348.83555,-136.46479)" />
+         transform="matrix(4.0310569,0,0,3.8253055,-353.53554,-135.14481)" />
       <ellipse
          transform="matrix(4.0310569,0,0,3.8253055,-363.2786,-103.08348)"
          ry="0.64604205"
